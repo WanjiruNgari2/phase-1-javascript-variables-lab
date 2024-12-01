@@ -7,6 +7,10 @@ let mostProfitableNeighborhood = 'Chelsea';
   mostProfitableNeighborhood == Chelsea;
   
 
-  //let companyCeo = 'Susan Smith';
-     const companyCeo = 'Susan Smith';
-   console.log(companyCeo);
+
+      function companyCeo === (Susan Smith) {
+        let companyCeo == 'Susan Smith'
+      companyCeo(Susan Smith); 
+      }
+ 
+companyCeo(Susan Smith);
